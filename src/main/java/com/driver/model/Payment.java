@@ -31,7 +31,7 @@ public class Payment {
         this.paymentCompleted = paymentCompleted;
     }
 
-    public PaymentMode getPaymentMode() {
+    public PaymentMode isPaymentMode() {
         return paymentMode;
     }
 
